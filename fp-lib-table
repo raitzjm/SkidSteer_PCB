@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Local_Libraries)(type KiCad)(uri ${KIPRJMOD}/Local_Libraries.pretty)(options "")(descr ""))
+  (lib (name 2171750001)(type KiCad)(uri C:/Users/Matt/Downloads/2171750001)(options "")(descr ""))
+)
